@@ -1,0 +1,13 @@
+{
+    "type": "<input>",
+    "project_id": "<input>",
+    "private_key_id": "<input>",
+    "private_key": "<input>",
+    "client_email": "<input>",
+    "client_id": "<input>",
+    "auth_uri": "<input>",
+    "token_uri": "<input>",
+    "auth_provider_x509_cert_url": "<input>",
+    "client_x509_cert_url": "<input>"
+  }
+  
